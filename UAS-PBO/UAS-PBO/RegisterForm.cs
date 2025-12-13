@@ -58,7 +58,7 @@ namespace UAS_PBO
                 case 2: // Bronze
                     plan = new BronzeMembership();
                     durasi = 1;
-                    loker = 0;
+                    loker = new Random().Next(200, 300);
                     tipeName = "Bronze";
                     break;
                 default:

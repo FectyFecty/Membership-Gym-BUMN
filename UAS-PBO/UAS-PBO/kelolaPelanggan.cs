@@ -87,18 +87,26 @@ namespace GymMembershipVirtual
                 return;
             }
 
-            // Tentukan loker
-            int locker = 0;
-            if (plan.GetName() != "Bronze")
-                locker = new Random().Next(200, 300);
+                // Tentukan loker (unik)
+    Random rnd = new Random();
+    int locker;
 
-            Pelangganan.Add(new Pelanggan(username, password, fullname, plan, duration, locker, true));
+    do
+    {
+        locker = rnd.Next(200, 300);
+    }
+    while (Pelangganan.Any(p => p.loker == locker));
 
-            Console.WriteLine("\nMember baru berhasil ditambahkan!");
-            Console.WriteLine($"Username : {username}");
-            Console.WriteLine($"Tipe     : {plan.GetName()}");
-            Console.WriteLine($"Locker   : {(locker == 0 ? "-" : locker)}");
-        }
+    // Tambah pelanggan
+    Pelangganan.Add(new Pelanggan(username, password, fullname, plan, duration, locker, true));
+
+    // Output ke user
+    Console.WriteLine("\nMember baru berhasil ditambahkan!");
+    Console.WriteLine($"Username : {username}");
+    Console.WriteLine($"Tipe     : {plan.GetName()}");
+    Console.WriteLine($"Locker   : {locker}");
+}
+
 
         public int TotalPelanggan()
         {
