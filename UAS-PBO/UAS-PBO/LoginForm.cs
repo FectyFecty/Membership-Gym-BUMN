@@ -51,5 +51,13 @@ namespace UAS_PBO
 
             MessageBox.Show("Login gagal: username/password salah.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            RegisterForm registerForm = new RegisterForm(manager);
+            this.Hide();
+            registerForm.ShowDialog();
+            this.Show();
+        }
     }
 }

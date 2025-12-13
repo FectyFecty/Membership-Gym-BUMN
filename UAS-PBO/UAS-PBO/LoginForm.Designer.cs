@@ -32,6 +32,8 @@
             txtPassword = new TextBox();
             btnLogin = new Button();
             btnCancel = new Button();
+            linkLabel1 = new LinkLabel();
+            label1 = new Label();
             SuspendLayout();
             // 
             // lblTitle
@@ -93,9 +95,31 @@
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = true;
             // 
+            // linkLabel1
+            // 
+            linkLabel1.AutoSize = true;
+            linkLabel1.Location = new Point(228, 226);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(61, 20);
+            linkLabel1.TabIndex = 7;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "Sign Up";
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(100, 226);
+            label1.Name = "label1";
+            label1.Size = new Size(122, 20);
+            label1.TabIndex = 8;
+            label1.Text = "Belum ada akun?";
+            // 
             // LoginForm
             // 
             ClientSize = new Size(400, 300);
+            Controls.Add(label1);
+            Controls.Add(linkLabel1);
             Controls.Add(lblTitle);
             Controls.Add(lblUsername);
             Controls.Add(txtUsername);
@@ -113,5 +137,8 @@
         }
 
         #endregion
+
+        private LinkLabel linkLabel1;
+        private Label label1;
     }
 }

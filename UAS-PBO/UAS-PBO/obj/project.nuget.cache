@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2Lb9CX91IoU=",
+  "dgSpecHash": "BhRd6J1QVCI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Azwan\\source\\repos\\UAS-PBO\\UAS-PBO\\UAS-PBO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UAS-PBO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fariz F\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Fariz F\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Fariz F\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Fariz F\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
