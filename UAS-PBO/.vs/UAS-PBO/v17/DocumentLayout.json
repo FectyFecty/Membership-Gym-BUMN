@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\akunadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\akunadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\upgrademembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\upgrademembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\pelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\upgrademembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\upgrademembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\kelolapelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\kelolapelanggan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|d:\\sekolah\\pnj\\2 - tugas\\pbo\\membership-gym-bumn\\uas-pbo\\uas-pbo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFFB998-0A08-4AB9-B61A-40A592DE7922}|UAS-PBO\\UAS-PBO.csproj|solutionrelative:uas-pbo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "akunAdmin.cs",
-              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\akunAdmin.cs",
-              "RelativeDocumentMoniker": "UAS-PBO\\akunAdmin.cs",
-              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\akunAdmin.cs",
-              "RelativeToolTip": "UAS-PBO\\akunAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UserForm.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\UserForm.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UserForm.cs",
+              "RelativeToolTip": "UAS-PBO\\UserForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwDQAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:26:13.192Z",
+              "WhenOpened": "2025-12-13T14:41:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpgradeMembershipForm.cs",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UpgradeMembershipForm.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\UpgradeMembershipForm.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UpgradeMembershipForm.cs",
+              "RelativeToolTip": "UAS-PBO\\UpgradeMembershipForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:31:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeMembershipForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UpgradeMembershipForm.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\UpgradeMembershipForm.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\UpgradeMembershipForm.cs [Design]",
+              "RelativeToolTip": "UAS-PBO\\UpgradeMembershipForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:30:55.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kelolaPelanggan.cs",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\kelolaPelanggan.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\kelolaPelanggan.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\kelolaPelanggan.cs",
+              "RelativeToolTip": "UAS-PBO\\kelolaPelanggan.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:20:23.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\AdminForm.cs",
-              "RelativeDocumentMoniker": "UAS-PBO\\AdminForm.cs",
-              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\AdminForm.cs [Design]",
-              "RelativeToolTip": "UAS-PBO\\AdminForm.cs [Design]",
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\RegisterForm.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\RegisterForm.cs",
+              "RelativeToolTip": "UAS-PBO\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:26:12.22Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pelanggan.cs",
-              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\pelanggan.cs",
-              "RelativeDocumentMoniker": "UAS-PBO\\pelanggan.cs",
-              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\pelanggan.cs",
-              "RelativeToolTip": "UAS-PBO\\pelanggan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:25:12.355Z",
+              "WhenOpened": "2025-12-13T14:20:11.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\LoginForm.cs",
-              "RelativeDocumentMoniker": "UAS-PBO\\LoginForm.cs",
-              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\LoginForm.cs [Design]",
-              "RelativeToolTip": "UAS-PBO\\LoginForm.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\RegisterForm.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "UAS-PBO\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:19:18.606Z",
+              "WhenOpened": "2025-12-13T14:20:00.492Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\user.cs",
+              "RelativeDocumentMoniker": "UAS-PBO\\user.cs",
+              "ToolTip": "D:\\Sekolah\\PNJ\\2 - Tugas\\PBO\\Membership-Gym-BUMN\\UAS-PBO\\UAS-PBO\\user.cs",
+              "RelativeToolTip": "UAS-PBO\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:25:36.674Z",
+              "EditorCaption": ""
             }
           ]
         }

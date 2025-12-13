@@ -50,7 +50,7 @@ namespace UAS_PBO
 
         private void BtnUpgrade_Click(object sender, EventArgs e)
         {
-            UpgradeMembershipForm upgradeForm = new UpgradeMembershipForm(member);
+            UpgradeMembershipForm upgradeForm = new UpgradeMembershipForm(member, manager);
             upgradeForm.ShowDialog();
             lblProfileInfo.Text = GetProfileInfo(); // refresh profile info
         }

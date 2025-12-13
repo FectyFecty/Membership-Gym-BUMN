@@ -40,25 +40,44 @@ namespace UAS_PBO
             int durasi;
             int loker = 0;
             string tipeName = "";
+            Random rnd = new Random();
 
             switch (cboMembership.SelectedIndex)
             {
                 case 0: // Gold
                     plan = new GoldMembership();
                     durasi = 6;
-                    loker = new Random().Next(200, 300);
+
+                    do
+                    {
+                        loker = rnd.Next(200, 300);
+                    }
+                    while (manager.Pelangganan.Any(p => p.loker == loker));
+
                     tipeName = "Gold";
                     break;
                 case 1: // Silver
                     plan = new SilverMembership();
                     durasi = 3;
-                    loker = new Random().Next(200, 300);
+
+                    do
+                    {
+                        loker = rnd.Next(200, 300);
+                    }
+                    while (manager.Pelangganan.Any(p => p.loker == loker));
+
                     tipeName = "Silver";
                     break;
                 case 2: // Bronze
                     plan = new BronzeMembership();
                     durasi = 1;
-                    loker = new Random().Next(200, 300);
+
+                    do
+                    {
+                        loker = rnd.Next(200, 300);
+                    }
+                    while (manager.Pelangganan.Any(p => p.loker == loker));
+
                     tipeName = "Bronze";
                     break;
                 default:

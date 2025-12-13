@@ -7,10 +7,12 @@ namespace UAS_PBO
     public partial class UpgradeMembershipForm : Form
     {
         private Pelanggan member;
+        private KelolaPelanggan manager;
 
-        public UpgradeMembershipForm(Pelanggan mem)
+        public UpgradeMembershipForm(Pelanggan mem, KelolaPelanggan mgr)
         {
             member = mem;
+            manager = mgr;
             InitializeComponent();
 
             lblCurrent.Text = $"Membership Saat Ini: {member.membershipPlan.GetName()}";
@@ -50,7 +52,13 @@ namespace UAS_PBO
             if (MessageBox.Show($"Konfirmasi pembayaran untuk membership {planName}?", "Konfirmasi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 member.membershipPlan = newPlan;
-                member.loker = newPlan.GetName() == "Bronze" ? 0 : new Random().Next(200, 300);
+
+                    Random rnd = new Random();
+                    do
+                    {
+                        member.loker = rnd.Next(200, 300);
+                    }
+                while (manager.Pelangganan.Any(p => p.loker == member.loker && p != member));
                 string lokerInfo = member.loker == 0 ? "-" : member.loker.ToString();
                 MessageBox.Show($"Membership berhasil diganti menjadi {planName}!\nNomor loker baru: {lokerInfo}", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Close();
