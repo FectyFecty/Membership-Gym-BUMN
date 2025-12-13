@@ -23,7 +23,7 @@ namespace GymMembershipVirtual
                 new SilverMembership(), 3, 102, true));
 
             Pelangganan.Add(new Pelanggan("fariz", "fariz123", "Fariz Ramadhan",
-                new BronzeMembership(), 1, 0, true));
+                new BronzeMembership(), 1, 103, true));
         }
 
         public Pelanggan cariUsername(string user)
