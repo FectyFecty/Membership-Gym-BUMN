@@ -1,0 +1,74 @@
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AddMemberForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AdminForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.ChangePasswordForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.LoginForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.MainForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.RegisterForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UpgradeMembershipForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UserForm.resources
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.GenerateResource.cache
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfoInputs.cache
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfo.cs
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.CoreCompileInputs.cache
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.exe
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.deps.json
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.runtimeconfig.json
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.dll
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.pdb
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.dll
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\refint\UAS-PBO.dll
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.pdb
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.genruntimeconfig.cache
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\ref\UAS-PBO.dll
+C:\Users\Azwan\source\repos\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.Properties.Resources.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.exe
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.deps.json
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.runtimeconfig.json
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.dll
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.pdb
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AddMemberForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AdminForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.ChangePasswordForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.LoginForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.MainForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.Properties.Resources.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.RegisterForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UpgradeMembershipForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UserForm.resources
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.GenerateResource.cache
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfoInputs.cache
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfo.cs
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.CoreCompileInputs.cache
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.sourcelink.json
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.dll
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\refint\UAS-PBO.dll
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.pdb
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.genruntimeconfig.cache
+D:\Sekolah\PNJ\2 - Tugas\PBO\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\ref\UAS-PBO.dll
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.exe
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.deps.json
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.runtimeconfig.json
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.dll
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\bin\Debug\net8.0-windows\UAS-PBO.pdb
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AddMemberForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.AdminForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.ChangePasswordForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.LoginForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.MainForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.Properties.Resources.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.RegisterForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UpgradeMembershipForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS_PBO.UserForm.resources
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.GenerateResource.cache
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfoInputs.cache
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.AssemblyInfo.cs
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.csproj.CoreCompileInputs.cache
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.sourcelink.json
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.dll
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\refint\UAS-PBO.dll
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.pdb
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\UAS-PBO.genruntimeconfig.cache
+C:\Users\Azwan\Source\Repos\Membership-Gym-BUMN\UAS-PBO\UAS-PBO\obj\Debug\net8.0-windows\ref\UAS-PBO.dll
